@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m currently learning github, version Control, markdown, etc.......
+
 <!--
 **Automaker8976/Automaker8976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
